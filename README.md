@@ -22,7 +22,7 @@ Program was tested using postgresql v9.5.10, psycopg2 v2.7.3.2, and python v2.7.
 - run the program  
 `python2.7 tool.py`  
 # Views  
-For the code used to create the SQL views, see newsviews.sql  
+For the SQL statements used to create the SQL views, see newsviews.sql  
   
 # Expected output  
 `What are the most popular three articles of all time?`  
