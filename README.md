@@ -7,10 +7,12 @@ this program was tested using postgresql v9.5.10, psycopg2 v2.7.3.2, and python 
 
 # Running it
 - installs the required dependencies  
+`apt-get install unzip`  
 `apt-get install postgresql`  
 `apt-get install python python-pip`  
 `pip2 install --upgrade pip`  
 `pip2 install psycopg2`  
+`unzip newsdata.zip`  
 - setup the database  
 `su postgres -c 'createuser -dRS developer'`  
 `su developer -c 'createdb'`  
