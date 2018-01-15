@@ -5,7 +5,7 @@ this shows my ability to use the psycopg2 library to connect my advanced sql que
 python code was verified with PEP8 to ensure readability.  
 this program was tested using postgresql v9.5.10, psycopg2 v2.7.3.2, and python v2.7.12  
 
-# Running it
+# Running it on Ubuntu 16.04
 - installs the required dependencies  
 `apt-get install unzip`  
 `apt-get install postgresql`  
