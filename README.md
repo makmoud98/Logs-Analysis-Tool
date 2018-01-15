@@ -20,4 +20,4 @@ this program was tested using postgresql v9.5.10, psycopg2 v2.7.3.2, and python 
 `su developer -c 'psql -d news -f newsdata.sql'`  
 `su developer -c 'psql -d news -f newsviews.sql'`  
 - run the program  
-`python tool.py`  
+`python2.7 tool.py`  
