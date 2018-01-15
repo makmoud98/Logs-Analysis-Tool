@@ -1,4 +1,4 @@
-# Logs-Analysis-Tool
+# Logs Analysis Tool
 this project was created for the third project in my fullstack developer nanodegree course.  
 it was written in python and uses postgreSQL for the database.  
 this shows my ability to use the psycopg2 library to connect my advanced sql querys to my python code.  
