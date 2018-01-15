@@ -9,7 +9,7 @@ def get_top_articles(limit=3):
 
     db = psycopg2.connect("dbname=%s" % DB_NAME)
     cursor = db.cursor()
-    cursor.execute("select * from top_articles")
+    cursor.execute("select * from top_articles;")
     if limit == -1:
         return cursor.fetchall()
     else:
